@@ -19,22 +19,22 @@ Alle Datensätze sind hier mit hochgeladen, bis auf die IO Tabelle eu22.csv, da 
 Die Quintildaten sind mit den Bridgingmatrizen von Cai & Vandyck (2020, https://www.sciencedirect.com/science/article/pii/S2352340920302894) auf den CPA Standard umgerechnet.
 
 ############# ERGEBNISSE ####################################################################
+Die zentralen Ergebnisse werden in BA1.R berechnet. 
+#############################################################################################
+#############################################################################################
+Gesamteffekte_inc_länderkürzel enthält Ergebnisse aufgeschlüsselt nach Einkommensgruppen
+je Land für alle 5 Szenarien INCOME weighted
 
 #############################################################################################
-#############################################################################################
-#Gesamteffekte_inc_länderkürzel enthält Ergebnisse aufgeschlüsselt nach Einkommensgruppen
-#je Land für alle 5 Szenarien INCOME weighted
+Gesamteffekte_länderkürzel enthält Ergebnisse aufgeschlüsselt nach Einkommensgruppen
+je Land für alle 5 Szenarien EXPENDITURE weighted
 
 #############################################################################################
-#Gesamteffekte_länderkürzel enthält Ergebnisse aufgeschlüsselt nach Einkommensgruppen
-#je Land für alle 5 Szenarien EXPENDITURE weighted
+Gesamteffekte enthält Ergebnisse NICHT nach Einkommen aufgeschlüsselt (Durchschnittswert) pro Land
 
 #############################################################################################
-#Gesamteffekte enthält Ergebnisse NICHT nach Einkommen aufgeschlüsselt (Durchschnittswert) pro Land
+Model 1,2 und 3 enthalten die Regressionen von total, direct und indirect Effekt für EXPENDITURE weighting
 
 #############################################################################################
-#Model 1,2 und 3 enthalten die Regressionen von total, direct und indirect Effekt für EXPENDITURE weighting
-
-#############################################################################################
-#Model 4,5, und 6 enthalten die Regressionen von total, direct und indirect Effekt für INCOME weighting
+Model 4,5, und 6 enthalten die Regressionen von total, direct und indirect Effekt für INCOME weighting
 
