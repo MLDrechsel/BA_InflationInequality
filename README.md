@@ -1,5 +1,5 @@
 # BA_InflationInequality
-#Working directory muss auf eigenen Speicherort angepasst werden und folgende Dateien enthalten:
+#Working directory muss auf eigenen Speicherort angepasst werden (in Zeile 1 Adresse anpassen, bei Windows Richtung der Slashes anpassen) und folgende Dateien enthalten:
 - q1_final_demand_fig21.csv : Quintildaten für das 1. Einkommensquintil, herunterladbar  https://ec.europa.eu/eurostat/databrowser/product/page/HBS_
 STR_T223
 - q2_final_demand_fig21.csv : Quintildaten für das 2. Einkommensquintil, herunterladbar  https://ec.europa.eu/eurostat/databrowser/product/page/HBS_
