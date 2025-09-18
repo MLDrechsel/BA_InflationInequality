@@ -16,6 +16,8 @@ STR_T223
 
 Alle Datensätze sind hier mit hochgeladen, bis auf die IO Tabelle eu22.csv, da sie zu groß ist. Diese muss seperat unter dem angegebenen Link heruntergeladen werden.
 
+Die Quintildaten sind mit den Bridgingmatrizen von Cai & Vandyck (2020, https://www.sciencedirect.com/science/article/pii/S2352340920302894) auf den CPA Standard umgerechnet.
+
 ############# ERGEBNISSE ####################################################################
 
 #############################################################################################
