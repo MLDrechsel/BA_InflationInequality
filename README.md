@@ -14,7 +14,7 @@ STR_T223
 - income.csv : Einkommensdaten herunterladbar https://ec.europa.eu/eurostat/databrowser/product/page/ICW_SR_10
 - prop_c.csv : Konsumneigungsdaten herunterladbar https://ec.europa.eu/eurostat/databrowser/product/page/ILC_DI01, Qunitilsweise auswählen
 
-Alle Datensätze sind hier mit hochgeladen
+Alle Datensätze sind hier mit hochgeladen, bis auf die IO Tabelle eu22.csv, da sie zu groß ist. Diese muss seperat unter dem angegebenen Link heruntergeladen werden.
 
 ############# ERGEBNISSE ####################################################################
 
